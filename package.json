@@ -16,7 +16,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "latest",
-    "react-scripts-ts": "latest"
+    "react-scripts": "latest"
   }
 }
